@@ -1,0 +1,2 @@
+No,Start_time,Cut_Point,End_time,Before_Mean,After_Mean,Mean_Diff,Before_Median,After_Median,Before_Sigma,After_Sigma,Before_Size,After_Size,Before,After,T_PValue,Difference
+1,2018/12/3 20:47 PFPU11.00_13,2018/12/15 01:21 PKXS07.00_04__r1,2018/12/17 23:59 PKXR93.00_03__r1,0.381084994,1.139764946,0.758679952,0.304414,0.456621,0.265489385,1.428440217,1006,149,2.857665863,0.53112475,1.34E-09,90.63802574
